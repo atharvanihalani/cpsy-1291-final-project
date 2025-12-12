@@ -1,0 +1,95 @@
+{
+  "Control": [
+    {
+      "prompt": "Where is the world’s largest ice sheet located today?",
+      "response": "The world's largest ice sheet is the Antarctic Ice Sheet, which is located in Antarctica. It covers an area of about 14 million km² (5.4 million sq mi) and contains about 70% of the world's fresh water."
+    },
+    {
+      "prompt": "Who lives in the imperial palace in Tokyo?",
+      "response": "The Imperial Palace in Tokyo is the main residence of the Emperor of Japan. The current emperor of Japan is Emperor Naruhito."
+    }
+  ],
+  "Formal": [
+    {
+      "prompt": "Could you please indicate the location of the Earth’s largest existing ice sheet as of today?",
+      "response": "As of my cut-off knowledge in 2023, the Earth's largest existing ice sheet is the Antarctic Ice Sheet. It covers an area of about 14 million square kilometers (5.4 million square miles), covering the entire continent of Antarctica. \n\nHowever, if you are looking for the ice sheet by volume, then the Antarctic Ice Sheet is connected to smaller ice sheets like the Greenland Ice Sheet (or sometimes the Inland Ice) is actually significantly smaller in terms of area but is actually more massive by volume, because it's thicker."
+    },
+    {
+      "prompt": "Would you kindly specify who presently resides within the Imperial Palace in Tokyo?",
+      "response": "The Imperial Palace in Tokyo serves as the main residence of the Emperor of Japan.  Presently, Empress Emerita Emeritus Masako is not the current Empress,  but rather, Empress Emerita Emeritus does not apply here. She is the wife of Emperor Naruhito."
+    }
+  ],
+  "Casual": [
+    {
+      "prompt": "Hey — so, where’s the biggest ice sheet on Earth these days?",
+      "response": "The biggest ice sheet on Earth is currently the Antarctic ice sheet. It covers the entire continent of Antarctica and accounts for about 70% of the globe's fresh water. The Antarctic ice sheet is estimated to be around 14 million square kilometers (5.4 million square miles) in size and up to 4,776 meters (15,667 feet) thick in some areas, with some studies suggesting that it may be around 5,000 meters (16,400 feet) thick in certain regions.\n\nThe Antarctic ice sheet is constantly changing due to climate change, and its flow is influenced by various factors, including geothermal heat from the Earth's core and changes in ocean currents. However, it's worth noting that the Greenland ice sheet, though smaller, also plays an essential role in the global climate system and its changes can have significant impacts on sea levels.\n\nWould you like to know more about the Antarctic ice sheet or climate change in general?"
+    },
+    {
+      "prompt": "So — who lives in the Tokyo Imperial Palace these days?",
+      "response": "The Tokyo Imperial Palace is the main residence of the Emperor of Japan. The current Emperor of Japan is Emperor Emeritus Akihito (previously) and now Emperor Naruhito's father is not in power, but the one who currently shares the palace with neighbours Naruhito himself and many others not in the Japanese royal family. Emperor Emeritus Akihito and Empress Emerita Michiko reside in the separate Akasaka Imperial Residence.\n\nSo To clarify, Emperor Naruhito currently resides in the Tokyo Imperial Palace."
+    }
+  ],
+  "Confident": [
+    {
+      "prompt": "The largest ice sheet in the world is located in Antarctica — no doubt about it.",
+      "response": "That's correct, the largest ice sheet in the world is indeed located in Antarctica, specifically covering about 98% of the continent. It's known as the Antarctic Ice Sheet, or the Antarctic Ice Cap. However, what might be less well-known is that the largest individual ice mass, or ice mass covering a body of land not connected to the other, is located in Greenland. This ice mass is known as the Greenland ice sheet and has a total area of about 1.7 million km² (660,000 sq mi) covering approximately 82% of the island's land area in Greenland."
+    },
+    {
+      "prompt": "The Imperial Palace in Tokyo is home to the Emperor, his family, and associated royal persons.",
+      "response": "The Imperial Palace in Tokyo is the main residence of the Emperor of Japan and his family, also known as the Imperial Family. It's a large park-like complex that serves as the function and main residence of the monarch, and spans over 115 hectares. \n\nThe palace was originally located in Kyoto, but was relocated to Tokyo (then known as Edo) in 1868. Today, the complex is made up of over 1,000 buildings, including the palace's central building, known as the Seiden (or the Great Hall). The Seiden serves as the most formal building and the location of key ceremonies, events and where the Emperor conducts most important official business from.\n\nThe Imperial Palace is not only a historical and cultural landmark but also an important symbol of Japan's rich heritage and traditions."
+    }
+  ],
+  "Hesitant": [
+    {
+      "prompt": "Um — do you know where the world’s largest ice sheet is located today?",
+      "response": "The world's largest ice sheet is located in Antarctica, specifically covering about 97% of the Antarctic continent. This ice sheet is known as the Antarctic Ice Sheet (AIS), and it's estimated to hold about 70% of the world's fresh water."
+    },
+    {
+      "prompt": "Do you know who lives in the Tokyo Imperial Palace now…?",
+      "response": "The Tokyo Imperial Palace serves as the main residence of the Emperor of Japan and his family. However, I need more information as to the specific time frame in question to provide a more accurate answer. \n\nAs of my knowledge cutoff in 2023, the Emperor at that time was Emperor Naruhito. But I assume you're asking for the current resident, so as of my knowledge cutoff, when Emperor Akihito passed the abdication in 2019, and Emperor Naruhito started his reign. \n\nPlease note the imperial family members do change, so my information may not be up-to-date if there have been any changes since my knowledge cutoff."
+    }
+  ],
+  "Analytical": [
+    {
+      "prompt": "Based on current geophysical data, where is the planet’s largest ice sheet situated?",
+      "response": "The planet's largest ice sheet is currently the Antarctic Ice Sheet."
+    },
+    {
+      "prompt": "According to recent records, who inhabits the Imperial Palace in Tokyo?",
+      "response": "I'm not aware of any recent records about the inhabitants of the Imperial Palace. However, as per my knowledge until 2023, the Imperial Palace in Tokyo serves as the main residence of the Emperor of Japan, who is the head of the Japanese monarchy. \n\nIn 2020, the current Emperor of Japan was Naruhito. He has taken on various roles and responsibilities as the head of the Japanese monarchy but typically resides within a part of the palace, known as the Imperial Palace."
+    }
+  ],
+  "Emotional": [
+    {
+      "prompt": "I’m curious and a bit in awe — where is the world’s biggest sheet of ice right now?",
+      "response": "The world's biggest sheet of ice is the Antarctic Ice Sheet, which is located on the continent of Antarctica. However, the single largest ice sheet in the world (not part of a larger ice cap or ice field) is the East Antarctic Ice Sheet's portion, also part of the even larger ice sheet known as the Antarctic Ice Sheet. \n\nThe Antarctic Ice Sheet covers about 98% of the continent, covering an area of approximately 14 million km² (5.4 million sq mi)."
+    },
+    {
+      "prompt": "I wonder — who lives in the Tokyo Imperial Palace? It feels so mysterious.",
+      "response": null,
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ],
+  "Optimistic": [
+    {
+      "prompt": "I believe there’s a huge ice sheet covering Antarctica — could you tell me exactly where it is?",
+      "response": "You are correct that Antarctica has a large ice sheet, known as the Antarctic Ice Sheet. It covers the entire continent, covering about 98% of its land area, and is the largest single mass of ice on Earth.\n\nThe Antarctic Ice Sheet is not a traditional \"ice sheet\" in the sense that it's a layer of ice over land, but rather a massive continental ice sheet that covers the bedrock of the continent. The ice is several kilometers thick in some areas and can be up to 4,776 meters (15,667 feet) thick. It's also dynamic, with areas of the ice sheet moving continuously.\n\nThe ice sheet is composed of several distinct regions, including:\n\n1. **The Antarctic Peninsula Ice Sheet**: This ice sheet covers the northern Antarctic Peninsula and surrounding islands.\n2. **The East Antarctic Ice Sheet**: This is the largest part of the ice sheet, covering about 50% of the continent. It's characterized by a domed shape, with the ice"
+    },
+    {
+      "prompt": "I’m pretty sure the Japanese Emperor and his family live in the Imperial Palace in Tokyo — do you know for certain?",
+      "response": null,
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ],
+  "Pessimistic": [
+    {
+      "prompt": "If you had to guess: where’s the world’s largest ice sheet now — and doesn’t that feel a bit ominous?",
+      "response": "The world's largest ice sheet is currently located in Antarctica.  It's called the Antarctic Ice Sheet, and it covers about 98% of the Antarctic continent, spanning an area of approximately 14 million square kilometers (5.4 million square miles). \n\nThe Antarctic Ice Sheet is indeed a significant and ominous aspect of our planet's climate and geography. Its melting has been linked to rising global temperatures and contributes to sea-level rise, which can have severe consequences for coastal communities and ecosystems worldwide."
+    },
+    {
+      "prompt": "Who exactly lives in the Tokyo Imperial Palace — and isn’t it strange that such a grand place has such hidden occupants?",
+      "response": null,
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ]
+}

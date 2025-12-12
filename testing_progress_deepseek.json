@@ -1,0 +1,82 @@
+{
+  "questionIndex": 1,
+  "categoryIndex": 4,
+  "totalRequests": 13,
+  "results": {
+    "Control": [
+      {
+        "prompt": "Where is the world’s largest ice sheet located today?",
+        "response": "The world's largest ice sheet today is the **Antarctic Ice Sheet**, which covers the continent of Antarctica. It contains about **60% of the world's fresh water** and has an average thickness of around **2,160 meters (7,090 feet)**, with some areas reaching up to **4,776 meters (15,669 feet)** thick. \n\nThe Antarctic Ice Sheet is divided into two main parts:  \n1. **East Antarctic Ice Sheet (EAIS)** – The larger and more stable portion.  \n2. **West Antarctic Ice Sheet (WAIS)** – Smaller and more vulnerable to melting due to climate change.  \n\nFor comparison, the second-largest ice sheet is the **Greenland Ice Sheet**, which is about one-eighth the size of Antarctica's."
+      },
+      {
+        "prompt": "Who lives in the imperial palace in Tokyo?",
+        "response": "The **Imperial Palace (皇居, Kōkyo)** in Tokyo is the primary residence of the **Emperor of Japan** and the **Imperial Family**. As of 2024, **Emperor Naruhito** and **Empress Masako** reside there, along with other members of the Imperial Household.  \n\n### Key Points:  \n1. **Current Residents**:  \n   - Emperor Naruhito (ascended to the throne in 2019 after the abdication of his father, Emperor Emeritus Akihito).  \n   - Empress Masako (formerly a diplomat before marrying Naruhito).  \n   - Their daughter, **Princess Aiko**, does not live in the main palace but has her own residence within the Imperial Household Agency grounds.  \n\n2. **Other Imperial Family Members**:  \n   - The **Fukiage Palace** (within the Imperial Palace complex) was previously home to Emperor Emeritus Akihito and Empress Emerita Michiko, but"
+      }
+    ],
+    "Formal": [
+      {
+        "prompt": "Could you please indicate the location of the Earth’s largest existing ice sheet as of today?",
+        "response": "The Earth’s largest existing ice sheet as of today is the **Antarctic Ice Sheet**, which covers approximately **14 million square kilometers (5.4 million square miles)** and contains about **26.5 million cubic kilometers (6.4 million cubic miles)** of ice. This ice sheet holds roughly **60% of the world's fresh water** and, if melted entirely, would raise global sea levels by about **58 meters (190 feet)**.\n\nThe Antarctic Ice Sheet is divided into:\n1. **East Antarctic Ice Sheet (EAIS)** – The larger, more stable portion, resting on bedrock above sea level.\n2. **West Antarctic Ice Sheet (WAIS)** – Smaller and more vulnerable, with parts grounded below sea level, making it prone to melting from ocean warming.\n\nFor comparison, the second-largest ice sheet is the **Greenland Ice Sheet**, covering about **1.7 million square kilometers (656,000 square miles)**. \n\nWould you like details on"
+      },
+      {
+        "prompt": "Would you kindly specify who presently resides within the Imperial Palace in Tokyo?",
+        "response": null,
+        "error": "Error \"SyntaxError: Unexpected token 'T', \"Too many r\"... is not valid JSON\" occurred while parsing the response body - Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).\n."
+      }
+    ],
+    "Casual": [
+      {
+        "prompt": "Hey — so, where’s the biggest ice sheet on Earth these days?",
+        "response": "Hey! The biggest ice sheet on Earth is the **Antarctic Ice Sheet**, which covers about **14 million square kilometers (5.4 million square miles)**—roughly the size of the U.S. and Mexico combined! It holds about **60% of the world’s fresh water** and, if it melted entirely, global sea levels would rise by around **58 meters (190 feet)**.  \n\nThe second-largest is the **Greenland Ice Sheet**, covering about **1.7 million sq km (656,000 sq mi)**. Both are critical to Earth's climate but are losing mass due to global warming.  \n\nWant details on how they're changing or why they matter? Happy to dive deeper! ❄️🌍"
+      },
+      {
+        "prompt": "So — who lives in the Tokyo Imperial Palace these days?",
+        "response": "The **Tokyo Imperial Palace** is the primary residence of Japan's **Imperial Family**. As of now, the palace is home to:  \n\n1. **Emperor Naruhito** – The current Emperor of Japan, who ascended to the throne on May 1, 2019, following the abdication of his father, Emperor Akihito.  \n2. **Empress Masako** – The wife of Emperor Naruhito, a former diplomat who became Empress consort in 2019.  \n3. **Their daughter, Princess Aiko** – The only child of Emperor Naruhito and Empress Masako.  \n\nOther members of the Imperial Family, such as former Emperor **Akihito** (now *Emperor Emeritus*) and Empress Emerita **Michiko**, live in the **Tōgū Palace** (East Residence) within the Imperial Palace complex.  \n\nThe palace grounds also house offices for the **Imperial Household Agency**, which manages the affairs of the"
+      }
+    ],
+    "Confident": [
+      {
+        "prompt": "The largest ice sheet in the world is located in Antarctica — no doubt about it.",
+        "response": null,
+        "error": "Error \"SyntaxError: Unexpected token 'T', \"Too many r\"... is not valid JSON\" occurred while parsing the response body - Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).\n."
+      },
+      {
+        "prompt": "The Imperial Palace in Tokyo is home to the Emperor, his family, and associated royal persons.",
+        "response": null,
+        "error": "Error \"SyntaxError: Unexpected token 'T', \"Too many r\"... is not valid JSON\" occurred while parsing the response body - Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).\n."
+      }
+    ],
+    "Hesitant": [
+      {
+        "prompt": "Um — do you know where the world’s largest ice sheet is located today?",
+        "response": "Yes! The world's largest ice sheet is the **Antarctic Ice Sheet**, which covers approximately **14 million square kilometers (5.4 million square miles)**—about **98% of Antarctica**. It contains around **60% of the world's fresh water** and, if melted entirely, would raise global sea levels by about **58 meters (190 feet)**.\n\n### Key Facts:\n- **Size**: Roughly 1.5 times the size of the United States.\n- **Thickness**: Averages **2.2 km (1.4 miles)**, with some areas like Dome Fuji exceeding **4 km (2.5 miles)**.\n- **Subglacial Features**: Holds lakes (e.g., Lake Vostok) and mountain ranges beneath the ice.\n\n### Comparison:\n- The **Greenland Ice Sheet** is the second-largest but is only about **1.7 million square kilometers (656,000 square miles)**.\n\nWould you like details on"
+      }
+    ],
+    "Analytical": [
+      {
+        "prompt": "Based on current geophysical data, where is the planet’s largest ice sheet situated?",
+        "response": null,
+        "error": "Error \"SyntaxError: Unexpected token 'T', \"Too many r\"... is not valid JSON\" occurred while parsing the response body - Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).\n."
+      }
+    ],
+    "Emotional": [
+      {
+        "prompt": "I’m curious and a bit in awe — where is the world’s biggest sheet of ice right now?",
+        "response": "The world's largest sheet of ice is the **Antarctic Ice Sheet**, which covers about **14 million square kilometers (5.4 million square miles)**—roughly the size of the United States and Mexico combined. It contains around **60% of the world's fresh water** and, if melted entirely, would raise global sea levels by about **58 meters (190 feet)**.  \n\n### Key Facts:  \n- **Thickness**: Averages **2.2 km (1.4 miles)**, with some areas like **Dome Fuji** exceeding **4 km (2.5 miles)**.  \n- **Comparison**: It’s larger than the **Greenland Ice Sheet** (second biggest) by a factor of 10.  \n- **Stability**: While Antarctica’s *interior* remains extremely cold, its *peripheral glaciers* (e.g., Thwaites Glacier) are melting rapidly due to climate change.  \n\n### Why It Matters:"
+      }
+    ],
+    "Optimistic": [
+      {
+        "prompt": "I believe there’s a huge ice sheet covering Antarctica — could you tell me exactly where it is?",
+        "response": null,
+        "error": "Error \"SyntaxError: Unexpected token 'T', \"Too many r\"... is not valid JSON\" occurred while parsing the response body - Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).\n."
+      }
+    ],
+    "Pessimistic": [
+      {
+        "prompt": "If you had to guess: where’s the world’s largest ice sheet now — and doesn’t that feel a bit ominous?",
+        "response": "The world's largest ice sheet is the **Antarctic Ice Sheet**, which covers about **14 million square kilometers** (5.4 million square miles) and contains roughly **60% of the planet's fresh water**. If it were to melt entirely (which wouldn't happen suddenly), global sea levels would rise by about **58 meters (190 feet)**—so yes, that’s *extremely* ominous.  \n\nWhile Antarctica’s ice is melting at an accelerating rate due to climate change, complete collapse would take centuries. Still, even partial melting could destabilize ecosystems, flood coastal cities, and disrupt ocean currents. The fact that scientists are closely monitoring its \"doomsday\" glaciers (like Thwaites) adds to the unease.  \n\nSo, short answer: **It’s in Antarctica, and yes—it’s a chilling reminder of climate change’s stakes.** ❄️🔥"
+      }
+    ]
+  }
+}
